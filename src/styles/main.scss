@@ -1,19 +1,18 @@
 @use 'variaveis';
 @use 'hero';
-@use 'shots';
 @use 'faq';
 @use 'footer';
 @use 'header';
 
 @font-face {
     font-family: SpaceMono;
-    src: url(../../assets/fonts/SpaceMono-Regular.ttf);
+    src: url(../../assets/fonts/Avenir-Regular.woff2);
     font-weight: 400;
 }
 
 @font-face {
     font-family: SpaceMono;
-    src: url(../../assets/fonts/SpaceMono-Bold.ttf);
+    src: url(../../assets/fonts/Avenir-Bold.woff2);
     font-weight: 700;
 }
 
