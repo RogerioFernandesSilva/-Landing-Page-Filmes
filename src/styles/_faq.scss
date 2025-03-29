@@ -9,11 +9,11 @@
     &__questions {
 
         &__item {
-            background-color: #0047ab;
+            background-color: #00abab;
             margin-bottom: 16px;
 
             &__question {
-                color: #fff;
+                color: #000;
                 font-size: 20px;
                 padding: 24px;
                 display: block;
@@ -30,6 +30,7 @@
                     align-items: center;
                     font-size: 72px;
                     font-weight: bold;
+                    color: #000;
                 }
             }
 
@@ -54,12 +55,14 @@
                     right: 24px;
                     font-size: 100px;
                     font-weight: lighter;
+                    color: #000;
                 }   
 
                 .faq__questions__item__answer {
                     height: auto;
                     padding-bottom: 24px;
                     transition: height, .5s ease;
+                    color: #000;
                 }
             }
         }

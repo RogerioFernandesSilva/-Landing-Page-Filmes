@@ -3,11 +3,6 @@ const sass = require('gulp-sass')(require('sass'));
 const imagemin = require('gulp-imagemin');
 const uglify = require('gulp-uglify');
 
-gulp.task('build', function () {
-    return gulp.src('src/**/*')
-      .pipe(gulp.dest('public'));
-  });
-
 function scripts() {
     return gulp.src('./src/scripts/*.js')
     .pipe(uglify())

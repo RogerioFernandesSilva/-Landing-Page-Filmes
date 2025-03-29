@@ -18,7 +18,6 @@
   "scripts": {
     "dev": "gulp watch",
     "build": "gulp",
-    "outputDirectory": "dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
