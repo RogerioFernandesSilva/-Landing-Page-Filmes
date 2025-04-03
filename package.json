@@ -1,15 +1,15 @@
 {
-  "name": "-landing-page-filmes",
+  "name": "landing-page-filmes2",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/RogerioFernandesSilva/-Landing-Page-Filmes#readme",
+  "homepage": "https://github.com/RogerioFernandesSilva/Landing-Page-Filmes2#readme",
   "bugs": {
-    "url": "https://github.com/RogerioFernandesSilva/-Landing-Page-Filmes/issues"
+    "url": "https://github.com/RogerioFernandesSilva/Landing-Page-Filmes2/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RogerioFernandesSilva/-Landing-Page-Filmes.git"
+    "url": "git+https://github.com/RogerioFernandesSilva/Landing-Page-Filmes2.git"
   },
   "license": "ISC",
   "author": "Rogério Fernandes",
